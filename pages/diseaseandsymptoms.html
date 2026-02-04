@@ -31,7 +31,10 @@
     <div>
 <h2>1) Common Symptoms in Cows</h2>
 <p>These symptoms may indicate illness in cows:</p>
-
+<img src="./../images/symp 1.jpg" width="280" height="300"> 
+<img src="./../images/symp 2.jpg" width="280" height="300"> 
+<img src="./../images/symp 3.jpg"width="280" height="300">
+<img src="./../images/symp 4.jpg" width="280"  height="300">
 <ul>
     <li>Fever/high body temperature</li>
     <li>Loss of appetite</li>
@@ -46,6 +49,7 @@
     <li>Skin patches</li>
     <li>Abnormal milk (watery, thick, blood)</li>
 </ul>
+
 </div>
 
 <hr>
@@ -335,6 +339,184 @@
     </table>
 <hr>
 
+<div>
+<h2>6) Emergency Warning Signs</h2>
+<p><b>Contact a veterinarian immediately if the cow shows:</b></p>
+
+<ul>
+    <li>Cannot stand / unconscious</li>
+    <li>Continuous hig fever</li>
+    <li>Severe breathing problem</li>
+    <li>Blood in stool or urine</li>
+    <li>Severe dehydration</li>
+    <li>Sudden stop milk production</li>
+</ul>
+</div>
+
+
+<hr>
+<center>
+<div>
+<h2>7) Vaccination Schedule (Basic)</h2>
+<table border="1">
+    <th>
+        <tr>
+            <th>Vaccine</th>
+            <th>When</th>
+            <th>Purpose</th>
+        </tr>
+    </th>
+
+    <tb>
+        <tr>
+            <td>FMD Vaccine</td>
+            <td>Every 6 months</td>
+            <td>Prevents Foot and Mouth Diseases</td>
+        </tr>
+        <tr>
+            <td>HS Vaccine</td>
+            <td>Yearly (before monsoon)</td>
+            <td>Prevents Hemorrhagic</td>
+        </tr>
+        <tr>
+            <td>BQ Vaccine</td>
+            <td>Yearly</td>
+            <td>Prevents Black Quarter</td>
+        </tr>
+    </tb>
+</table>
+</div><br>
+<hr>
+
+<div>
+    <h2>8) Nearest Veterinary Hospital Location</h2>
+    <p><a href="https://maps.google.com/" target="_blank">View on Google Maps</a></p>
+
+    
+</div></center>
+<br><hr>
+
+<center>
+<h2><u>9) Symptoms Report Form</u></h2>
+<p><i>Fill this form to record cow symptoms and send details to the veterinary team.</i></p>
+
+<form>
+<table border="1" cellpadding="10"  width="70%">
+    
+    <tr>
+        <th colspan="2">Owner & Cow Details</th>
+    </tr>
+
+    <tr>
+        <td><b>Owner Name</b></td>
+        <td>
+            <input type="text" id="Owner" name="owner" placeholder="Enter owner name" required size="40">
+        </td>
+    </tr>
+
+    <tr>
+        <td><b>Cow Tag / ID</b></td>
+        <td>
+            <input type="text" id="cowid" name="cowid" placeholder="Enter cow tag number" required size="40">
+        </td>
+    </tr>
+
+    <tr>
+        <td><b>Date</b></td>
+        <td>
+            <input type="date" id="date" name="date" required>
+        </td>
+    </tr>
+
+
+    <tr>
+        <th colspan="2">Symptoms Selection</th>
+    </tr>
+
+    <tr>
+        <td><b>Select Symptoms</b></td>
+        <td>
+            <input type="checkbox" id="fever" name="symptoms" value="Fever">
+            <label for="fever">Fever</label><br>
+
+            <input type="checkbox" id="cough" name="symptoms" value="Cough">
+            <label for="cough">Cough</label><br>
+
+            <input type="checkbox" id="diarrhea" name="symptoms" value="Diarrhea">
+            <label for="diarrhea">Diarrhea</label><br>
+
+            <input type="checkbox" id="bloat" name="symptoms" value="Bloat">
+            <label for="bloat">Bloat (Swollen Stomach)</label><br>
+
+            <input type="checkbox" id="udder" name="symptoms" value="Swollen Udder">
+            <label for="udder">Swollen Udder</label><br>
+
+            <input type="checkbox" id="skin" name="symptoms" value="Skin Patches">
+            <label for="skin">Skin patches / Itching</label><br>
+
+            <input type="checkbox" id="lameness" name="symptoms" value="Lameness">
+            <label for="lameness">Lameness (Difficulty walking)</label><br>
+        </td>
+    </tr>
+
+    <tr>
+        <td><b>Severity Level</b></td>
+        <td>
+            <select id="severity" name="severity" required>
+                <option value="">---Select---</option>
+                <option value="Mild">Mild</option>
+                <option value="Moderate">Moderate</option>
+                <option value="Severe">Severe</option>
+            </select>
+        </td>
+    </tr>
+
+    <tr>
+        <td><b>Additional Notes</b></td>
+        <td>
+            <textarea name="notes" rows="4" cols="42" placeholder="Write any extra symptoms or notes..."></textarea>
+        </td>
+    </tr>
+
+    <tr>
+        <th colspan="2">Contact Information</th>
+    </tr>
+
+    <tr>
+        <td><b>Mobile Number</b></td>
+        <td>
+            <input type="tel" name="mobile" placeholder="Enter mobile number" pattern="[0-9]{10}" size="40" required>
+        </td>
+    </tr>
+
+    <tr>
+        <td><b>Village / Location</b></td>
+        <td>
+            <input type="text" name="location" placeholder="Enter village/location" size="40">
+        </td>
+    </tr>
+
+    <tr>
+        <td><b>Need urgent help?</b></td>
+        <td>
+            <input type="radio" id="urgent_yes" name="urgent" value="Yes" required>
+            <label for="urgent_yes">Yes</label>
+
+            <input type="radio" id="urgent_no" name="urgent" value="No">
+            <label for="urgent_no">No</label>
+        </td>
+    </tr>
+
+    <tr>
+        <td colspan="2" align="center">
+            <input type="submit" value="Submit Report">
+            &nbsp;&nbsp;
+            <input type="reset" value="Clear Form">
+        </td>
+    </tr>
+
+</table>
+</form>
 
 </body>
 
