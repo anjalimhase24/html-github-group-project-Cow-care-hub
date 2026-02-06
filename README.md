@@ -106,17 +106,13 @@ Diseases
 🖼️ Images & Icons
 
 ## 👩‍🤝‍👩 Contributors
-Surabhi Patle (Group Leader)
 
-Tushar Khatale(Group Member)
+## 👩‍💻 Contributors ❤️
 
-Arya Thube(Group Member)
-
-Roma Panchal(Group Member)
-
-Anjali Mhase(Group Member)
-
-https://github.com/Surbhi-Patle-11/html-github-group-project-Cow-care-hub/graphs/contributors
+<a href="https://github.com/Surbhi-Patle-11/html-github-group-project-Cow-care-hub/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Surbhi-Patle-11/html-github-group-project-Cow-care-hub" alt="Contributors">
+</a>
+Made with [contrib.rocks](https://contrib.rocks).
 
 
 ## 🎓 Project Use
