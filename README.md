@@ -104,6 +104,8 @@ Diseases
 <td align="center"> <img src="images/contributors/tushar.jpg" width="120"><br> <b>Project Guide</b><br> 🎓 Mentor<br> <a href="https://github.com/TusharKhatale16" target="_blank"></a> </td> </tr> </table>
 
 
+https://github.com/Surbhi-Patle-11/html-github-group-project-Cow-care-hub/graphs/contributors
+
 
 ## 🎓 Project Use
 
