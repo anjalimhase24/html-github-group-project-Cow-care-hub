@@ -85,6 +85,7 @@ This project is created for educational purposes only.
 </td> </tr> </table>
 
 <a href="https://github.com/anjalimhase24/html-github-group-project-Cow-care-hub/graph/contributors">
+ <img src="https://contrib.rocks/images?repo=anjalimhase24/html-github-group-project-Cow-care-hub"/></a>
 ##  Acknowledgement
 
 Special thanks to teachers and mentors for their guidance and support.
