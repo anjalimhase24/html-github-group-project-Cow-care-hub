@@ -106,7 +106,7 @@ Diseases
 🖼️ Images & Icons
 
 ## 👩‍🤝‍👩 Contributors
-Surabhi Patl (Group Leader)
+Surabhi Patle (Group Leader)
 
 Tushar Khatale(Group Member)
 
