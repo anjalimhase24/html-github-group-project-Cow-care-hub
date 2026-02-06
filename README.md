@@ -93,17 +93,6 @@ Diseases
 🖼️ Images & Icons
 
 ## 👩‍🤝‍👩 Contributors
-<table> <tr> <td align="center"> <img src="./images/Anjali-image.jpg" width="120"><br> <b>Anjali Mhase</b><br> 👩‍💻 Student Developer<br> <a href="https://github.com/Surbhi-Patle-11" target="_blank"></a> </td> 
-
-<td align="center"> <img src="./images/" width="120"><br> <b>Project Guide</b><br> 🎓 Mentor<br> <a href="https://https://github.com/anjalimhase24" target="_blank"></a> </td> 
-
-<td align="center"> <img src="images/contributors/roma.jpg" width="120"><br> <b>Project Guide</b><br> 🎓 Mentor<br> <a href="https://github.com/Romapanchal15 target="_blank"></a> </td> 
-
-<td align="center"> <img src="images/contributors/arya.jpg" width="120"><br> <b>Project Guide</b><br> 🎓 Mentor<br> <a href="https://github.com/AryaThube-9" target="_blank"></a> </td> 
-
-<td align="center"> <img src="images/contributors/tushar.jpg" width="120"><br> <b>Project Guide</b><br> 🎓 Mentor<br> <a href="https://github.com/TusharKhatale16" target="_blank"></a> </td> </tr> </table>
-
-
 https://github.com/Surbhi-Patle-11/html-github-group-project-Cow-care-hub/graphs/contributors
 
 
@@ -123,7 +112,7 @@ This project is ideal for:
 
 📌 This project is created for educational purposes only.
 
-## S🙏 Acknowledgement
+## 🙏 Acknowledgement
 
 Special thanks to teachers and mentors for their valuable guidance and continuous support 🙏.
 
