@@ -49,6 +49,10 @@ This project is designed especially for college students to learn HTML while spr
 📞 Contact Us (contact.html)
 → Contact details and communication information
 
+<img width="1882" height="912" alt="image" src="https://github.com/user-attachments/assets/7a6b34a1-766f-45bb-be1a-ea32c17e944b" />
+
+<img width="1902" height="1015" alt="image" src="https://github.com/user-attachments/assets/2b4123e7-d7a5-457d-989f-5fb8997295d1" />
+
 ## ✨ Key Features
 
 ✅ Pure HTML (no CSS / JS dependency)
